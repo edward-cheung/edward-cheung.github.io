@@ -1,2 +1,2 @@
 # https://yiicheung.github.io/
-我的简历
+Resume（个人简历）
