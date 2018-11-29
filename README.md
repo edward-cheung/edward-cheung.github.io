@@ -1,2 +1,2 @@
-# https://yiicheung.github.io/
+# blog.yiicheung.cn
 Blog
